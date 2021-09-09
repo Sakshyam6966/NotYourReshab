@@ -12,15 +12,10 @@
 <a href="https://https://notyoursakshyam.notsakshyam6966.repl.co//">Click Here To Visit </a>
 <br>
 
-> # Credit / Developers
-> [Suport Vcodes / Developers](https://vcodes.xyz/)<br>
-> [Support Disbots / Modifiers](https://disbots.xyz/)<br>
-
 ##NotYourSakshyam
 
 > **Need Help!?** [Join Our Help Server](https://discord.gg/eWpusb5yn4)
 > **Visit Our Website** [Click Here](https://notyoursakshyam.notsakshyam6966.repl.co/)
-> 
 
 
 > # ❓**SelfHosting**
